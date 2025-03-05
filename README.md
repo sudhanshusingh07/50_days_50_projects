@@ -1,5 +1,5 @@
 # JAVA_Script_minor_projects
-| #  | Project |Frameworks| Live Demo  |
+| #  | Project |specialization| Live Demo  |
 |-------|-----|----|------------|
 |  1 | [BMI Calculator](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/BMI%20Calculator)|  | [Live Demo](http://java-script-minor-projects.vercel.app/) |
 | 2 | [Background_color_changer](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Background_color_changer)|jQuery |Live Demo|
