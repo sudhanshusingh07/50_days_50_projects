@@ -1,7 +1,7 @@
 # JAVA_Script_minor_projects
 | #  | Project |specialization| Live Demo  |
 |-------|-----|----|------------|
-|  1 | [BMI Calculator](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/BMI%20Calculator)|  | [Live Demo](http://java-script-minor-projects.vercel.app/) |
+| 1 | Drag and Drop image Uploader | DOM manipulation | Live Demo |
 | 2 | [Background_color_changer](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Background_color_changer)|jQuery |Live Demo|
 | 3 | [COPY TO CLIPBOARD](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/COPY%20TO%20CLIPBOARD)| |Live Demo|
 | 4 | [Expanding cards](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Expanding%20cards)| |Live Demo|
@@ -17,3 +17,4 @@
 | 14 | Quiz-games | API handling  | Live Demo |
 | 15 | password-Generator | |Live Demo |
 | 16 | Javascript-Calculator | | Live Demo |
+|  17 | [BMI Calculator](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/BMI%20Calculator)|  | [Live Demo](http://java-script-minor-projects.vercel.app/) |
