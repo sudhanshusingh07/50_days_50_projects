@@ -10,7 +10,7 @@
 | 7 | [colour change](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/colour%20change)| |Live Demo|
 | 8 | [digital clock](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/digital%20clock)| |Live Demo|
 | 9 | [progress-steps](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/progress-steps)| |Live Demo|
-| 10 | [weather-app](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/weather-app)| |[Live Demo](https://weather-app-xi-blond-44.vercel.app/)|
+| 10 | [weather-app](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/weather-app)| API handling |[Live Demo](https://weather-app-xi-blond-44.vercel.app/)|
 | 11 | [Increase&Decrease_Font_Size](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Increase%26Decrease_Font_Size) | jQuery |  [Live Demo](https://java-script-minor-projects-2r7t.vercel.app/)|
 | 12 | Dark&Light_Toggle_Mode | jQuery | Live Demo |
 | 13 | Dictionary | API handling  | Live Demo |
