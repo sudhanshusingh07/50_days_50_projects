@@ -16,4 +16,4 @@
 | 13 | Dictionary | API handling  | Live Demo |
 | 14 | Quiz-games | API handling  | Live Demo |
 | 15 | password-Generator | |Live Demo |
-
+| 16 | Javascript-Calculator | | Live Demo |
