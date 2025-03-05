@@ -14,4 +14,5 @@
 | 11 | [Increase&Decrease_Font_Size](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Increase%26Decrease_Font_Size) | jQuery |  [Live Demo](https://java-script-minor-projects-2r7t.vercel.app/)|
 | 12 | Dark&Light_Toggle_Mode | jQuery | Live Demo |
 | 13 | Dictionary | API handling  | Live Demo |
+| 14 | Quiz-games | API handling  | Live Demo |
 
