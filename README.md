@@ -12,4 +12,5 @@
 | 9 | [progress-steps](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/progress-steps)| |Live Demo|
 | 10 | [weather-app](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/weather-app)| |[Live Demo](https://weather-app-xi-blond-44.vercel.app/)|
 | 11 | [Increase&Decrease_Font_Size](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Increase%26Decrease_Font_Size) | jQuery |  [Live Demo](https://java-script-minor-projects-2r7t.vercel.app/)|
+| 12 | Dark&Light_Toggle_Mode | jQuery | Live Demo |
 
