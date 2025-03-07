@@ -3,7 +3,7 @@
 |-------|-----|----|------------|
 | 1 | [Drag and Drop image Uploader](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Drag%20and%20Drop%20image%20Uploader) | DOM manipulation | [Live Demo](https://50-days-50-projects-henna.vercel.app/) |
 | 2 | [Background_color_changer](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Background_color_changer)|jQuery |[Live Demo](https://background-color-changer-ochre.vercel.app/)|
-| 3 | [COPY TO CLIPBOARD](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/COPY%20TO%20CLIPBOARD)| DOM manipulation |Live Demo|
+| 3 | [COPY TO CLIPBOARD](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/COPY%20TO%20CLIPBOARD)| DOM manipulation |[Live Demo](https://copytoclipboard.vercel.app/)|
 | 4 | [Expanding cards](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Expanding%20cards)| DOM manipulation |Live Demo|
 | 5 | [GuessTheNumber](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/GuessTheNumber) | if-else |Live Demo|
 | 6 | [To-Do List](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/To-Do%20List)| DOM manipulation |Live Demo|
