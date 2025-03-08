@@ -18,3 +18,4 @@
 | 15 | [password-Generator](https://github.com/sudhanshusingh07/password-Generator) | react |Live Demo |
 | 16 | [Javascript-Calculator](https://github.com/sudhanshusingh07/Javascript-Calculator) | JS Calculation  | Live Demo |
 |  17 | [BMI Calculator](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/BMI%20Calculator)| JS Calculation  | [Live Demo](http://java-script-minor-projects.vercel.app/) |
+| 18 | Pizza Bill Generator |java oops| |
