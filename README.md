@@ -1,4 +1,4 @@
-# JAVA_Script_minor_projects
+# 50 Days 50 Projects
 | #  | Project |specialization| Live Demo  |
 |-------|-----|----|------------|
 | 1 | [Drag and Drop image Uploader](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/Drag%20and%20Drop%20image%20Uploader) | DOM manipulation | [Live Demo](https://50-days-50-projects-henna.vercel.app/) |
