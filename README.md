@@ -21,3 +21,4 @@
 | 18 | Pizza Bill Generator |java oops| |
 | 19 | Java Employee Payroll System | Java oops ||
 | 20| Hidden Search Widget |||
+| 21 | Blurry Loading |||
