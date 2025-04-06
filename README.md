@@ -24,3 +24,4 @@
 | 21 | Blurry Loading |||
 | 22 | counter_app | useState Hook & Conditionals||
 | 23 | route | React Router|||
+| 24| Student_Greade_Management_System | JAVA oops||
