@@ -18,11 +18,11 @@
 | 15 | [password-Generator](https://github.com/sudhanshusingh07/password-Generator) | react |Live Demo |
 | 16 | [Javascript-Calculator](https://github.com/sudhanshusingh07/Javascript-Calculator) | JS Calculation  | Live Demo |
 |  17 | [BMI Calculator](https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/BMI%20Calculator)| JS Calculation  | [Live Demo](http://java-script-minor-projects.vercel.app/) |
-| 18 | [Pizza Bill Generator](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Pizza%20Bill%20Generator) |java oops| |
-| 19 | [Java Employee Payroll System](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Java%20Employee%20%20Payroll%20System) | Java oops ||
-| 20| [Hidden Search Widget](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Hidden%20Search%20Widget) |||
-| 21 | [Blurry Loading](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Blurry%20Loading) |||
-| 22 | [counter_app](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/counter_app) | useState Hook & Conditionals||
-| 23 | [route](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/route) | React Router|||
-| 24| [Student_Greade_Management_System](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Student_Greade_Management_System) | JAVA oops||
-| 25 | [Profile Card](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Profile%20Card) | react(props)||
+| 18 | [Pizza Bill Generator](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Pizza%20Bill%20Generator) |java oops| Live Demo |
+| 19 | [Java Employee Payroll System](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Java%20Employee%20%20Payroll%20System) | Java oops |Live Demo|
+| 20| [Hidden Search Widget](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Hidden%20Search%20Widget) ||Live Demo|
+| 21 | [Blurry Loading](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Blurry%20Loading) || Live Demo |
+| 22 | [counter_app](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/counter_app) | useState Hook & Conditionals|Live Demo|
+| 23 | [route](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/route) | React Router|Live Demo|
+| 24| [Student_Greade_Management_System](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Student_Greade_Management_System) | JAVA oops|Live Demo|
+| 25 | [Profile Card](https://github.com/sudhanshusingh07/50_days_50_projects/tree/main/Profile%20Card) | react(props)|Live Demo|
