@@ -1,0 +1,20 @@
+.button {
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  border: none;
+   margin: 8px
+}
+
+.button.primary {
+  background-color: blue;
+  color: white;
+}
+
+.button.secondary {
+  background-color: gray;
+  color: black;
+}

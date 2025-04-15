@@ -1,0 +1,13 @@
+.star-container {
+  font-size: 24px;
+  color: gold;
+}
+
+.star-container span {
+  margin-right: 5px;
+  transition: transform 0.2s ease;
+}
+
+.star-container span:hover {
+  transform: scale(1.2);
+}
